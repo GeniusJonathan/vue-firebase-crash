@@ -1,29 +1,3 @@
-# vue-firebase-crash
+# This is Vue Firestore crash course from Traversy Media
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.youtube.com/watch?v=S7sgFL0rjSM&list=PLillGF-RfqbYsOOycB67Raf9dwmL6Y31M&index=5
