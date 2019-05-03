@@ -5,4 +5,5 @@ export default {
     projectId: "vue-firebase-crash",
     storageBucket: "vue-firebase-crash.appspot.com",
     messagingSenderId: "213569119618"
+    
 }
